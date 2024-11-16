@@ -46,7 +46,7 @@
 ## Output:
 ### Name:DURGADEVI P
 ### Register Number:212223100006
-![Uploading WhatsApp Image 2024-10-24 at 16.16.09_4b6251d9.jpg…]()
+![WhatsApp Image 2024-10-24 at 16 15 54_be00623e](https://github.com/user-attachments/assets/576be6b0-3d1e-4287-97cb-c8207d62a783)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
